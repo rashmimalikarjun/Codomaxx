@@ -1,10 +1,10 @@
-# 🚀 Codomaxx
+ Codomaxx
 
 Welcome to **Codomaxx**! This repository is part of my AI Engineering learning journey.
 
-## 📌 Day 1 – Environment Setup
+##  Day 1 – Environment Setup
 
-### ✅ Tasks Completed
+###  Tasks Completed
 
 - Installed Python
 - Installed Visual Studio Code
@@ -17,7 +17,7 @@ Welcome to **Codomaxx**! This repository is part of my AI Engineering learning j
 - Created a GitHub repository
 - Ran my first Python program
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Codomaxx/
@@ -26,7 +26,7 @@ Codomaxx/
 └── README.md
 ```
 
-## 🐍 First Python Program
+##  First Python Program
 
 ```python
 print("Hello, World!")
@@ -38,7 +38,7 @@ print("Hello, World!")
 Hello, World!
 ```
 
-## 🎯 Goal
+##  Goal
 
 This repository will document my journey as I learn:
 
@@ -50,7 +50,7 @@ This repository will document my journey as I learn:
 - Artificial Intelligence
 - AI Engineering
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Python
 - Visual Studio Code
@@ -58,9 +58,9 @@ This repository will document my journey as I learn:
 - Git
 - GitHub
 
-## 🌱 Learning Journey
+##  Learning Journey
 
 This is the beginning of my AI Engineering roadmap. I will continue updating this repository with new projects, exercises, and notes as I progress.
 
 ---
-⭐ Thank you for visiting my repository!
+ Thank you for visiting my repository!
